@@ -81,6 +81,10 @@
     <Compile Include="Assets\Scripts\Inventario.cs" />
     <Compile Include="Assets\Scripts\Movimentacao.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\New Folder\Fonts\Michroma\License\OFL.txt" />
+    <None Include="Assets\New Folder\Fonts\Orbitron\OFL.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
 </Project>
